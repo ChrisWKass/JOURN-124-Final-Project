@@ -28,12 +28,12 @@ Data analysis, potential questions and answers from findings, Potential story an
     * Apply the green, yellow and red scale (green = high, yellow = medium and red = low)
    
 ### I have conducted an analysis of the data through a means of sorting specific columns to generate specific results as represented by the following tables to answer the following questions:
-   a) What 5 schools have the lowest SMS?
-   b) What 5 schools have the highest SMS?
-   C) What 5 schools have the lowest MCMS?
-   d) What 5 schools have the highest MCMS?
-   e) What 5 schools generate the lowest % change from SMS to MCMS?
-   f) What 5 schools generate the highest % change from SMS to MCMS?
+      a) What 5 schools have the lowest SMS?
+      b) What 5 schools have the highest SMS?
+      c) What 5 schools have the lowest MCMS?
+      d) What 5 schools have the highest MCMS?
+      e) What 5 schools generate the lowest % change from SMS to MCMS?
+      f) What 5 schools generate the highest % change from SMS to MCMS?
 
 !['AnalysisOne','AnalysisOne'](/AnalysisOne.jpg)
 
