@@ -99,4 +99,8 @@ https://infogram.com/bottom-5-schools-based-on-mcms-percentile-analysis-pdf-1ho1
 
 ### What becomes apparent is that Black Hills State University fairs particularly badly - lets review the data gathered and analyzed thus far:
 * Starting with the Analysis One, Black Hills State University (Hereinafter "BHSU") has he second lowest SMS, the lowest MCMS as well as the lowest % change from SMS to MCMS.
+* Turning to the above bar chart representing the bottom 5 schools based on SMS percentile analysis, BHSU features right at the bottom in all instances
+* In so far as the bar chart representing the bottom 5 schools based on MCMS percentile analysisis concerned, BHSU again does consistently badly and in all but two instances (where is comes very close second from last) scores lowest.
+
+### WHY DOES BLACK HILLS STATE UNIVERSITY SCORE SO BADLY CONSISTENTLY THROUGHOUT MY DATA ANALYSIS?  
 
