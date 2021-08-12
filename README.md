@@ -48,3 +48,7 @@ Data analysis, potential questions and answers from findings, Potential story an
 
 !['IvyLeague','IvyLeague'](/IvyLeague.jpg)
 
+#### LIBERAL ARTS
+
+!['LiberalArts','LiberalArts'](/LiberalArts.jpg)
+
