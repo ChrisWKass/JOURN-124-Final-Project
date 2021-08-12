@@ -32,6 +32,10 @@ Data analysis, potential questions and answers from findings, Potential story an
 !['AnalysisOne','AnalysisOne'](/AnalysisOne.jpg)
 
 2. **ANALYSIS TWO**
-
+* This involved sorting and filtering.
+* We are analyzing schools by name but we filtered specifically for school type
+* This is basically the same as the previous process the only difference being, making use of filtering so that we can filter through school types.
+* I went through and repeated the process for each school type (engineering, ivy league, state, liberal arts, party.
+* NOTE: when analyzing the Ivy League category, there are only 8 schools, meaning that some schools will appear in both the bottom and the top categories
 
 
