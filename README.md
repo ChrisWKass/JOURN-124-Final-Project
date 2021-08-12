@@ -21,12 +21,13 @@ Data analysis, potential questions and answers from findings, Potential story an
 * I sorted the data from smallest to largest and for present purposes, was interested in the first 5 results - being the bottom 5 schools with the lowest SMS (as we have sorted to data from smallest to largest) 
 * I then sorted the data from largest to smallest and again was interested in the first 5 results - being the top 5 schools with the highest SMS
 * Now that I have analyzed the top and bottom five in the SMS column, I followed the same procedure for mid career median salary (Hereinafter "MCMS")
-* The final thing I wanted to explore is the % change from SMS to MCMS.
+* The final thing I wanted to explore is the % change from SMS to MCMS as represented in the table below.
 * To assist with visualizing the data I applied conditional formatting in the form of color scales. 
     * To this end, select the data initially analyzed  
     * Under conditional formatting option select color scales 
     * Apply the green, yellow and red scale (green = high, yellow = medium and red = low)
-   
+* I have conducted an analysis of the data through a means of sorting specific columns to generate specific results as represented by the following tables:
+
 
 
 
