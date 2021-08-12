@@ -60,3 +60,10 @@ Data analysis, potential questions and answers from findings, Potential story an
 
 !['State','State'](/State.jpg)
 
+
+3. **ANALYSIS THREE**
+* Using pivot tables I wanted to analyze the various school types in terms of the averages of the SMS, MCMS and average % change from SMS to MCMS
+* For analysis purposes, I took a hard copy of the data that was returned in my pivot table analysis which appears thus:
+
+!['AnalysisThree','AnalysisThree'](/AnalysisThree.jpg)
+
