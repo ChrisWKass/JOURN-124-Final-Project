@@ -26,9 +26,10 @@ Data analysis, potential questions and answers from findings, Potential story an
     * To this end, select the data initially analyzed  
     * Under conditional formatting option select color scales 
     * Apply the green, yellow and red scale (green = high, yellow = medium and red = low)
-* I have conducted an analysis of the data through a means of sorting specific columns to generate specific results as represented by the following tables:
+   
+### I have conducted an analysis of the data through a means of sorting specific columns to generate specific results as represented by the following tables:
 
-
+!['AnalysisOne','AnalysisOne'](/AnalysisOne.jpg)
 
 
 
