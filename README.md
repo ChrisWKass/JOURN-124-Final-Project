@@ -103,5 +103,14 @@ https://infogram.com/bottom-5-schools-based-on-mcms-percentile-analysis-pdf-1ho1
 * In so far as the bar chart representing the bottom 5 schools based on MCMS percentile analysisis concerned, BHSU again does consistently badly and in all but two instances (where is comes very close second from last) scores lowest.
 
 ## STORY PITCH:
-### WHY DOES BLACK HILLS STATE UNIVERSITY SCORE SO BADLY CONSISTENTLY THROUGHOUT MY DATA ANALYSIS?  
+### WHY DOES BLACK HILLS STATE UNIVERSITY SCORE SO POORLY,CONSISTENTLY THROUGHOUT MY DATA ANALYSIS?  
+#### I would begin by looking at factors that might contribute to why BHSU yields the the results in my findings, for example, 
+   * What is the University's admssions policy?
+   * How do the admitted applicants fair on their SAT scores?
+   * What is the student to faculty ratio?
+   * I would also look at the retention rate over time
+   * Importantly, what are some of the common jobs by major from this university?
+##### For the purposes of this submission, the above necessarily entails examples of additional sources that could be used for the purposes of the story pitch. 
+ 
+ #### Based on my findings I would then write up a profile featuring BHSU and why its graduates are among the lowest paid throughout their career in the US
 
