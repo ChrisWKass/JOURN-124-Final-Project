@@ -44,3 +44,7 @@ Data analysis, potential questions and answers from findings, Potential story an
 
 !['Engineering','Engineering'](/Engineering.jpg)
 
+#### IVY LEAGUE
+
+!['IvyLeague','IvyLeague'](/IvyLeague.jpg)
+
