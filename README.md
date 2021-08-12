@@ -112,5 +112,9 @@ https://infogram.com/bottom-5-schools-based-on-mcms-percentile-analysis-pdf-1ho1
    * Importantly, what are some of the common jobs by major from this university?
 ##### For the purposes of this submission, the above necessarily entails examples of additional sources that could be used for the purposes of the story pitch. 
  
- #### Based on my findings I would then write up a profile featuring BHSU and why its graduates are among the lowest paid throughout their career in the US
+ #### Based on my findings I would then write up a profile featuring BHSU and why its graduates are among the lowest paid throughout their career in the US!
+ 
+ #### Additional sources who could be contacted to assist me with this story
+   1. Dean of BHSU: Dr. Greg Farley, 605-642-6212, Gregory.Farley@bhsu.edu. As the dean of the university, this source would be well positioned to answer important questions that relate to the insitutions internal affairs 
+   2. Laura Scheibe who is the director of the Division of College, Career and Student success as part of the South Dakota Department of Education, Laura.Scheibe@state.sd.us (HQ Phone: 606-773-3212). I would ask this source questions of a more external nature, for example, I know there is a much higher then average student-faculty ratio and I would want to know wheter there are any external plans in place to assist the university in this regard. 
 
