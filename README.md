@@ -11,11 +11,17 @@ Data analysis, potential questions and answers from findings, Potential story an
 
 ## Analyzing my data
 * Turning to the data, I was interested to see the % change form starting median salary to mid-career median salary
-* In order to do this, I inserted an additional column to the table, calling it, % change from starting to mid-career salary.
+* In order to do this, I inserted an additional column to the table, calling it, % change from starting to mid-career median salary.
 * The formular for this is =[(Mid Career Median Salary – Starting median salary)/ starting median salary]
 * We now have a data set ready for analysis.
 
-1. ANALYSIS ONE
+1. **ANALYSIS ONE**
+* This involved sorting 
+* I first looked at the starting median salary (hereinafter "SMS")
+* I sorted the data from smallest to largest and for present purposes, was interested in the first 5 results - being the bottom 5 schools with the lowest SMS (as we have sorted to data from smallest to largest) 
+* I then sorted the data from largest to smallest and again was interested in the first 5 results - being the top 5 schools with the highest SMS
+* Now that I have analyzed the top and bottom five in the SMS column, I followed the same procedure for mid career median salary (Hereinafter "MCMS")
+* The final thing I wanted to explore is the % change from SMS to MCMS. 
 
 
 
