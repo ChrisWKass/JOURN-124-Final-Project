@@ -1,5 +1,5 @@
 # JOURN-124-Final-Project
-Data analysis, potential questions and answers from findings, Potential story angle found within the data and relevant supporting data viz and sources
+Data analysis with potential questions and answers from findings, Potential story angle found within the data and relevant supporting data viz and external + additional sources.
 
 ## Cleaning my data
 * In workbench I looked through my data, specifically under the headings "school name" and "school type" for errors/anomolies and didnt find any.
@@ -81,6 +81,7 @@ Data analysis, potential questions and answers from findings, Potential story an
 !['AnalysisThree','AnalysisThree'](/AnalysisThree.jpg)
 
 
-## Possible Questions that are answered in respect of 
-
-### Question 1: what are the bottom 5 schools in respect of 
+### Possible Questions that are answered in respect of the pivot table
+      a) What is the overall average SMS for each school type?
+      b) what is the overall average MCMS for each school type?
+      c) what is the overall average % change from SMS to MCMS for each school type? 
