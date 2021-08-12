@@ -81,7 +81,13 @@ Data analysis with potential questions and answers from findings, Potential stor
 !['AnalysisThree','AnalysisThree'](/AnalysisThree.jpg)
 
 
-### Possible Questions that are answered in respect of the pivot table
+### Possible Questions that are answered by above pivot table:
       a) What is the overall average SMS for each school type?
       b) what is the overall average MCMS for each school type?
       c) what is the overall average % change from SMS to MCMS for each school type? 
+
+
+## Lets take a closer look at the data and other data visalization that will support a potential story pitch
+
+!['Bottom5SMSpercentile','Bottom5SMSpercentile'](/Bottom5SMSpercentile.jpg)
+
