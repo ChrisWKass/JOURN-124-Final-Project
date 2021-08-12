@@ -102,5 +102,6 @@ https://infogram.com/bottom-5-schools-based-on-mcms-percentile-analysis-pdf-1ho1
 * Turning to the above bar chart representing the bottom 5 schools based on SMS percentile analysis, BHSU features right at the bottom in all instances
 * In so far as the bar chart representing the bottom 5 schools based on MCMS percentile analysisis concerned, BHSU again does consistently badly and in all but two instances (where is comes very close second from last) scores lowest.
 
+## STORY PITCH:
 ### WHY DOES BLACK HILLS STATE UNIVERSITY SCORE SO BADLY CONSISTENTLY THROUGHOUT MY DATA ANALYSIS?  
 
