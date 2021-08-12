@@ -52,3 +52,11 @@ Data analysis, potential questions and answers from findings, Potential story an
 
 !['LiberalArts','LiberalArts'](/LiberalArts.jpg)
 
+#### PARTY
+
+!['Party','Party'](/Party.jpg)
+
+#### STATE
+
+!['State','State'](/State.jpg)
+
