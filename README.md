@@ -27,7 +27,7 @@ Data analysis, potential questions and answers from findings, Potential story an
     * Under conditional formatting option select color scales 
     * Apply the green, yellow and red scale (green = high, yellow = medium and red = low)
    
-### I have conducted an analysis of the data through a means of sorting specific columns to generate specific results as represented by the following tables to answer the following questions:
+### I have conducted an analysis of the data through a means of sorting specific columns. To this end, the specific results generated as shown from the tables below provide answers to the following potential questions:
       a) What 5 schools have the lowest SMS?
       b) What 5 schools have the highest SMS?
       c) What 5 schools have the lowest MCMS?
