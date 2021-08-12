@@ -91,6 +91,8 @@ Data analysis with potential questions and answers from findings, Potential stor
 
 !['Bottom5SMSpercentile','Bottom5SMSpercentile'](/Bottom5SMSpercentile.jpg)
 
+https://infogram.com/bottom-5-schools-based-on-sms-percentile-analysis-pdf-1h8n6m30rxxoj4x
+
 !['Bottom5MCMSpercentile','Bottom5MCMSpercentile'](/Bottom5MCMSpercentile.jpg)
 
 
