@@ -44,7 +44,14 @@ Data analysis, potential questions and answers from findings, Potential story an
 * I went through and repeated the process for each school type (engineering, ivy league, state, liberal arts, party.
 * NOTE: when analyzing the Ivy League category, there are only 8 schools, meaning that some schools will appear in both the bottom and the top categories.
 
-### The following tables are relevant for the purposes of this analysis:
+### The following tables are relevant for the purposes of this analysis and provide answers to the following potential questions:
+#### Within each respective school type what are the 5 school names 
+      a) with the lowest SMS?
+      b) with the highest SMS?
+      c) with the lowest MCMS?
+      d) with the highest MCMS?
+      e) that generate the lowest % change from SMS to MCMS?
+      d) that generate the highest % change from SMS to MCMS?
 
 #### ENGINEERING
 
