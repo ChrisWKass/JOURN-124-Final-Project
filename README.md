@@ -97,3 +97,6 @@ https://infogram.com/bottom-5-schools-based-on-sms-percentile-analysis-pdf-1h8n6
 
 https://infogram.com/bottom-5-schools-based-on-mcms-percentile-analysis-pdf-1ho16vogy9e5x4n?live
 
+### What becomes apparent is that Black Hills State University fairs particularly badly - lets review the data gathered and analyzed thus far:
+* Starting with the Analysis One, Black Hills State University (Hereinafter "BHSU") has he second lowest SMS, the lowest MCMS as well as the lowest % change from SMS to MCMS.
+
