@@ -1,4 +1,6 @@
 # JOURN-124-Final-Project
+## DEGREES THAT PAY BACK!
+### BY: CHRIS KASSIANIDES
 Data analysis with potential questions and answers from findings, Potential story angle found within the data and relevant supporting data viz and external + additional sources.
 
 ## Cleaning my data
